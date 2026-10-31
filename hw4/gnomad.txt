@@ -1,0 +1,45 @@
+SNV:21-33432763-G-A (GRCh38)
+Dataset
+
+    gnomAD v4.1.2
+
+More information
+	Exomes	Genomes	Total
+Filters More information	Pass	Pass	
+Allele Count	33	9	42
+Allele Number	1461870	152178	1614048
+Allele Frequency	0.00002257	0.00005914	0.00002602
+Grpmax Filtering AF More information
+(95% confidence)	0.0002756	0.00007876	0.0001984
+Number of homozygotes	0	0	0
+
+SNV:22-19990695-G-A (GRCh38)
+Dataset
+
+    gnomAD v4.1.2
+
+More information
+	Exomes	Genomes	Total
+Filters More information	Pass	Pass	
+Allele Count	830	847	1677
+Allele Number	1448468	152360	1600828
+Allele Frequency	0.0005730	0.005559	0.001048
+Grpmax Filtering AF More information
+(95% confidence)	0.01966	0.01860	0.01942
+Number of homozygotes	7	8	15
+
+
+SNV:21-25606478-T-C (GRCh38)
+Dataset
+
+    gnomAD v4.1.2
+
+More information
+	Exomes	Genomes	Total
+Filters More information	Pass	Pass	
+Allele Count	1162	1307	2469
+Allele Number	1459580	152320	1611900
+Allele Frequency	0.0007961	0.008581	0.001532
+Grpmax Filtering AF More information
+(95% confidence)	0.02683	0.02715	0.02742
+Number of homozygotes	12	22	34
